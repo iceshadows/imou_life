@@ -1,0 +1,12 @@
+{
+  "domain": "imou_life",
+  "name": "Imou Life",
+  "documentation": "https://github.com/iceshadows/imouapi",
+  "issue_tracker": "https://github.com/iceshadows/imouapi/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@iceshadows"],
+  "requirements": ["imouapi @ file:///home/homeassistant/imouapi-1.0.5-py3-none-any.whl"],
+  "version": "1.0.3",
+  "iot_class": "cloud_polling"
+}
